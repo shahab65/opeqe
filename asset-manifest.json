@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/opeqe/static/css/main.eb946ca5.chunk.css",
-    "main.js": "/opeqe/static/js/main.90a43194.chunk.js",
-    "main.js.map": "/opeqe/static/js/main.90a43194.chunk.js.map",
+    "main.js": "/opeqe/static/js/main.93b5c01b.chunk.js",
+    "main.js.map": "/opeqe/static/js/main.93b5c01b.chunk.js.map",
     "runtime-main.js": "/opeqe/static/js/runtime-main.b8c07800.js",
     "runtime-main.js.map": "/opeqe/static/js/runtime-main.b8c07800.js.map",
-    "static/js/2.17686549.chunk.js": "/opeqe/static/js/2.17686549.chunk.js",
-    "static/js/2.17686549.chunk.js.map": "/opeqe/static/js/2.17686549.chunk.js.map",
+    "static/js/2.12eccc67.chunk.js": "/opeqe/static/js/2.12eccc67.chunk.js",
+    "static/js/2.12eccc67.chunk.js.map": "/opeqe/static/js/2.12eccc67.chunk.js.map",
     "index.html": "/opeqe/index.html",
-    "precache-manifest.8f45ed17ec688a6929625ad85ac1c352.js": "/opeqe/precache-manifest.8f45ed17ec688a6929625ad85ac1c352.js",
+    "precache-manifest.d76ae825e00151789436b1b7e1fd9ba9.js": "/opeqe/precache-manifest.d76ae825e00151789436b1b7e1fd9ba9.js",
     "service-worker.js": "/opeqe/service-worker.js",
     "static/css/main.eb946ca5.chunk.css.map": "/opeqe/static/css/main.eb946ca5.chunk.css.map",
-    "static/js/2.17686549.chunk.js.LICENSE.txt": "/opeqe/static/js/2.17686549.chunk.js.LICENSE.txt",
+    "static/js/2.12eccc67.chunk.js.LICENSE.txt": "/opeqe/static/js/2.12eccc67.chunk.js.LICENSE.txt",
     "static/media/android_mobile.jpg": "/opeqe/static/media/android_mobile.91f42da8.jpg",
     "static/media/app-store.e374ae72.svg": "/opeqe/static/media/app-store.e374ae72.svg",
     "static/media/bg.jpg": "/opeqe/static/media/bg.d4396cb2.jpg",
@@ -23,8 +23,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b8c07800.js",
-    "static/js/2.17686549.chunk.js",
+    "static/js/2.12eccc67.chunk.js",
     "static/css/main.eb946ca5.chunk.css",
-    "static/js/main.90a43194.chunk.js"
+    "static/js/main.93b5c01b.chunk.js"
   ]
 }
