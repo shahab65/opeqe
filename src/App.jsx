@@ -14,6 +14,7 @@ import BaseLayout from "./layouts/BaseLayout";
 import CssBaseline from "@material-ui/core/CssBaseline";
 import Typography from "@material-ui/core/Typography";
 import Box from "@material-ui/core/Box";
+import Hidden from "@material-ui/core/Hidden";
 import Container from "@material-ui/core/Container";
 import ActionBar from "./components/ActionBar";
 import FoodCarousel from "./components/FoodCarousel";
@@ -23,10 +24,8 @@ import ReceiveOption from "./components/ReceiveOption";
 import GiftCard from "./components/GiftCard";
 
 // styles
-const useStyles = makeStyles(() => ({
-  container: {
-    padding: "4rem",
-  },
+const useStyles = makeStyles((theme) => ({
+  container: {},
 }));
 
 const items = [
@@ -106,14 +105,21 @@ const App = () => {
             </Section>
 
             <Section>
-              <Box display="flex" flexDirection="column" alignItems="center">
+              <Box
+                display="flex"
+                flexDirection="column"
+                alignItems="center"
+                paddingY="2rem"
+              >
                 <Typography variant="h4" gutterBottom>
                   Ready to order?
                 </Typography>
-                <Typography gutterBottom style={{ color: "#a5a5a5" }}>
+                <Typography align="center" gutterBottom style={{ color: "#a5a5a5" }}>
                   Browse our menu for dine-in, delivery or pickup and catering
                 </Typography>
-                <ReceiveOption />
+                <Hidden mdDown>
+                  <ReceiveOption />
+                </Hidden>
               </Box>
             </Section>
           </Container>

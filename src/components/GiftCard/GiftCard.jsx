@@ -33,7 +33,7 @@ const GiftCard = () => {
   return (
     <Grid container alignItems="center" justify="center">
       <Grid className={classes.leftSection} item md={6}>
-        <img src={GiftCardImage} alt="gift card" />
+        <img className={classes.image} src={GiftCardImage} alt="gift card" />
       </Grid>
       <Grid className={classes.rightSection} item md={6}>
         <Box className={classes.textContainer}>
