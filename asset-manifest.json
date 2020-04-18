@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/opeqe/static/css/main.eb946ca5.chunk.css",
+    "main.js": "/opeqe/static/js/main.23979552.chunk.js",
+    "main.js.map": "/opeqe/static/js/main.23979552.chunk.js.map",
+    "runtime-main.js": "/opeqe/static/js/runtime-main.b8c07800.js",
+    "runtime-main.js.map": "/opeqe/static/js/runtime-main.b8c07800.js.map",
+    "static/js/2.d1f8f160.chunk.js": "/opeqe/static/js/2.d1f8f160.chunk.js",
+    "static/js/2.d1f8f160.chunk.js.map": "/opeqe/static/js/2.d1f8f160.chunk.js.map",
+    "index.html": "/opeqe/index.html",
+    "precache-manifest.6881533eaa6b59151b4039aace820e45.js": "/opeqe/precache-manifest.6881533eaa6b59151b4039aace820e45.js",
+    "service-worker.js": "/opeqe/service-worker.js",
+    "static/css/main.eb946ca5.chunk.css.map": "/opeqe/static/css/main.eb946ca5.chunk.css.map",
+    "static/js/2.d1f8f160.chunk.js.LICENSE.txt": "/opeqe/static/js/2.d1f8f160.chunk.js.LICENSE.txt",
+    "static/media/android_mobile.jpg": "/opeqe/static/media/android_mobile.91f42da8.jpg",
+    "static/media/app-store.e374ae72.svg": "/opeqe/static/media/app-store.e374ae72.svg",
+    "static/media/bg.jpg": "/opeqe/static/media/bg.d4396cb2.jpg",
+    "static/media/full_mobile.jpg": "/opeqe/static/media/full_mobile.4b2cc4bb.jpg",
+    "static/media/gift_card.jpg": "/opeqe/static/media/gift_card.13399d0a.jpg",
+    "static/media/google-play.c68e1c2f.svg": "/opeqe/static/media/google-play.c68e1c2f.svg",
+    "static/media/ios_mobile.jpg": "/opeqe/static/media/ios_mobile.82550d23.jpg",
+    "static/media/sushi.jpg": "/opeqe/static/media/sushi.31ec7f4a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8c07800.js",
+    "static/js/2.d1f8f160.chunk.js",
+    "static/css/main.eb946ca5.chunk.css",
+    "static/js/main.23979552.chunk.js"
+  ]
+}
